@@ -23,15 +23,11 @@ This is a collaboration from:
 
 ## Testing
 
- * This project implements Test Driven Development written by the collaborators. We used the `mocha` and `chai` libraries to complete testing.
-
-## Linting Your Code
-
-* This project implements the use of a linter. 
+ * TDD implemented with a combination of the `mocha` and `chai` framework/assertion library.
 
 ## Data Model
 
-* This project is the first project through the Turing Front End Engineering Program to implement large data files. Below is a preview of how they are set up.
+* This project is the first project through the Turing Front End Engineering Program to implement larger-scale data files. They are structured in four separate sets:
 
 **Users**
 
@@ -94,12 +90,9 @@ This is a collaboration from:
 
 ## Packages
 
-* FitLit uses [Packery](https://packery.metafizzy.co/) to bring to the user a masonry layout of data. 
-* FitLit also uses [Dragabilly](https://draggabilly.desandro.com/) to allow the user a draggable interface to customize their DOM experience. 
-* To display the data on graphs FitLit implements [charts.js](https://www.chartjs.org/).
-
-## User-Interface 
-* This is also the first project at Turing where a prompt for the UI/UX design is not provided. We were allowed the creative freedom to design this. The DOM does not represent the full depth of functionality found inside our code. 
+* FitLit uses [Packery](https://packery.metafizzy.co/) to display data in a masonry layout. 
+* [Draggabilly](https://draggabilly.desandro.com/) was used to enable draggable widgets. 
+* Graph/chart displays created with [charts.js](https://www.chartjs.org/).
 
 ## Demo
 
